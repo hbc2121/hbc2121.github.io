@@ -1,17 +1,17 @@
 body {
-	background-color:#f60744
+	background-color:#ff5983
 }
 
 h1 {
 	text-align: center;
-	font-size: 24px;
+	font-size: 48px;
 	font-family:Gerogia;
 	color: white;
 }
 
 p {
 	text-align: center;
-	font-size: 18px;
+	font-size: 30px;
 	font-family: Georgia;
 	color: white;
 }

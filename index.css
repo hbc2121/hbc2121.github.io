@@ -17,10 +17,10 @@ h2 {
 }
 
 h3 {
+	left-margin:25%;
 	text-align: left;
 	font-size: 30px;
 	font-family: verdana;
-	color: #f9dec9
 }
 h4 {
 	text-align: center;
@@ -42,10 +42,9 @@ img {
 
 .button {
 	display: block;
-	height: 100px;
+	height: 50px;
 	width: 200px;
 	background: #f9dec9
-	color: #e9afa3
 	text-align:center;
 	font-family:verdana:
 }

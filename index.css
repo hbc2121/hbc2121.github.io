@@ -1,22 +1,23 @@
 body {
-	background-color:#ff5983
+	background-color:#e9afa3
 }
 
 h1 {
 	text-align: center;
-	font-size: 48px;
-	font-family:Gerogia;
-	color: white;
+	font-size: 64px;
+	font-family:verdana;
+	color: #f9dec9;
 }
 
 p {
 	text-align: center;
 	font-size: 30px;
-	font-family: Georgia;
-	color: white;
+	font-family: verdana;
+	color: #f9dec9
 }
 
 img {
 	display: block;
 	margin: auto;
+	border-radius: 25px;
 }

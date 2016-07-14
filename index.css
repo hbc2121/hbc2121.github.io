@@ -1,19 +1,19 @@
 body {
-	background-color:#ef807f
+	background-color:#EF807F;
 }
 
 h1 {
 	text-align: center;
 	font-size: 64px;
 	font-family:verdana;
-	color: #ebcfb2;
+	color: #EBCFB2;
 }
 
 h2 {
 	text-align: center;
 	font-size: 30px;
 	font-family: verdana;
-	color: #ebcfb2
+	color: #EBCFB2
 }
 
 h3 {
@@ -26,68 +26,65 @@ h4 {
 	text-align: center;
 	font-size: 30px;
 	font-family: verdana;
-	color: #ebcfb2
+	color: #EBCFB2
 }
 h5 {
 	text-align: right;
 	font-size: 30px;
 	font-family: verdana;
-	color: #ebcfb2
+	color: #EBCFB2
 }
 img {
 	position: absolute;
-	top:200px;
-	left-margin:auto;
-	right-margin:auto;
-	vertical-align: center;
+	top: 30%;
+	left: 48%;
 	display: block;
 	margin: auto;
 	border-radius: 25px;
 }
-.aboutme {
+.AboutMe {
 	text-align: center;
 	position: absolute;
-	left:150px;
-	top:140px;
-	background: #ebcfb2;
+	left:10%;
+	top:20%;
+	background: #EBCFB2;
 	height:25px;
 	width:200px;
 	border-radius: 10px;
 	font-family: verdana;
-	color: #ef807f;
+	color: #EF807F;
 	font-size: 20px;
 	padding: 10px 20px 10px 20px;
 	text-decoration: none;
 }
 	
-.resume {
+.Resume {
 	text-align: center;
 	position: absolute;
-	left-margin:auto;
-	right-margin:auto;
-	top:140px;
-	background: #ebcfb2;
+	left:45%;
+	top:20%;
+	background: #EBCFB2;
 	height:25px;
 	width:200px;
 	border-radius: 10px;
 	font-family: verdana;
-	color: #ef807f;
+	color: #EF807F;
 	font-size: 20px;
 	padding: 10px 20px 10px 20px;
 	text-decoration: none;
 }
 
-.linkedin {
+.LinkedIn {
 	text-align: center;
 	position: absolute;
-	right:150px;
-	top:140px;
-	background: #ebcfb2;
+	right:10%;
+	top:20%;
+	background: #EBCFB2;
 	height:25px;
 	width:200px;
 	border-radius: 10px;
 	font-family: verdana;
-	color: #ef807f;
+	color: #EF807F;
 	font-size: 20px;
 	padding: 10px 20px 10px 20px;
 	text-decoration: none;

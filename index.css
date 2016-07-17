@@ -16,24 +16,7 @@ h2 {
 	color: #EBCFB2
 }
 
-h3 {
-	left-margin:25%;
-	text-align: left;
-	font-size: 30px;
-	font-family: verdana;
-}
-h4 {
-	text-align: center;
-	font-size: 30px;
-	font-family: verdana;
-	color: #EBCFB2
-}
-h5 {
-	text-align: right;
-	font-size: 30px;
-	font-family: verdana;
-	color: #EBCFB2
-}
+
 img {
 	position: absolute;
 	top: 30%;
